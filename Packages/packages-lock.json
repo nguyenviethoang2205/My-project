@@ -180,7 +180,7 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.ml-agents": {
-      "version": "file:D:/Apps/ml-agents/com.unity.ml-agents",
+      "version": "file:C:/Users/asus/ml-agents/com.unity.ml-agents",
       "depth": 0,
       "source": "local",
       "dependencies": {
